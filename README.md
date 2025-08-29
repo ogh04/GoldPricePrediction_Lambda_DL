@@ -27,13 +27,13 @@ This project aims to enhance gold market predictions using Lambda Architecture a
 
 **FR:**  
 Les données pour ce projet sont disponibles via GitHub ou API.  
-Lien GitHub : [Dataset](https://github.com/username/other-project/data)  
-Ou accès via API : `https://api.example.com/data`
+Lien GitHub : [Dataset](https://github.com/ogh04/gold-api/blob/main/omar.csv)  
+
 
 **EN:**  
 The dataset for this project is available via GitHub or API.  
-GitHub Link: [Dataset](https://github.com/username/other-project/data)  
-Or access via API: `https://api.example.com/data`
+GitHub Link: [Dataset](https://github.com/ogh04/gold-api/blob/main/omar.csv) 
+
 
 ---
 
