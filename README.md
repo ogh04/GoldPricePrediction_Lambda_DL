@@ -37,6 +37,42 @@ GitHub Link: [Dataset](https://github.com/ogh04/gold-api/blob/main/omar.csv)
 
 ---
 
+## Apache Airflow DAGs / DAGs Apache Airflow
+
+**FR :**  
+Tous les fichiers DAG sont situés dans le dossier `airflow_dags/`.  
+Pour visualiser le workflow, les images sont disponibles dans `airflow_dags/orchestration.png`.  
+
+Exemple d'image :  
+![Workflow DAG](airflow_dags/orchestration.png)
+
+**EN :**  
+All DAG files are located in the `airflow_dags/` folder.  
+To visualize the workflow, images are available in `airflow_dags/orchestration.png`.  
+
+Example image:  
+![DAG Workflow](airflow_dags/orchestration.png)
+
+---
+
+## Power BI Dashboards / Dashboards Power BI
+
+**FR :**  
+Tous les fichiers Power BI sont situés dans le dossier `power_bi/`.  
+Les fichiers `.pbix` et les images exportées sont disponibles pour analyse.  
+
+Exemple de dashboard :  
+![Dashboard Power BI](power_bi/page1.png)
+
+**EN :**  
+All Power BI files are located in the `power_bi/` folder.  
+`.pbix` files and exported images are available for analysis.  
+
+Example dashboard:  
+![Power BI Dashboard](power_bi/page1.png)
+
+---
+
 ## How to Run / Comment exécuter
 
 1. Clone the repository / Cloner le projet  
